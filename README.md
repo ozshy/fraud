@@ -5,7 +5,8 @@ by Oz Shy
 
 *** How Table 1 was constructed (Appendix A in the paper) ***
 
-The spreadsheet sec_awards_2025_mm_dd.xlsx provides the raw data that collected from the SEC press releases during 2012-2024. 
+The spreadsheet sec_awards_2025_mm_dd.xlsx provides the raw data that I collected from 133 SEC press releases during 2012-2024. It also contains links to each press release. 
+
 The R-code sec_awards_2025_mm_dd.R inputes the spreadsheet and generates Table 1 in LaTeX format. 
 
 *** Other files in the repository ***
