@@ -9,6 +9,11 @@ The spreadsheet sec_awards_2025_mm_dd.xlsx provides the raw data that I collecte
 
 The R-code sec_awards_2025_mm_dd.R inputes the spreadsheet and generates Table 1 in LaTeX format. 
 
-*** Other files in the repository ***
+*** Other files in the repository (not related to Table 1) ***
 
+All algebraic derivations for the above article (not related to data) can be found on "fraud_2025_mm_dd.dfw.pdf" (which the reader can download). The reader can then scroll down to the desired derivation using the same section, subsection, and equation numbers correspoding to the paper itself.
+
+The above PDF file was constructed using a symbolic algebra software called "Derive for Windows." The file "vat_2024_mm_dd.dfw" requires this sofware (which most people don't have). Therefore, it is sufficient for the reader to download only the PDF.
+
+The R-code fraud_2025_mm_dd.R just plots few similations for verification purposes only. 
 
