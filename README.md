@@ -5,6 +5,8 @@ by Oz Shy
 
 https://papers.ssrn.com/abstract=5121886
 
+-------------------------------------------------------------
+
 *** How Table 1 was constructed (Appendix A in the paper) ***
 
 The spreadsheet sec_awards_2025_mm_dd.xlsx provides the raw data that I collected manually from 133 separate SEC press releases during 2012-2024. It also contains links to each of the 133 press releases. 
