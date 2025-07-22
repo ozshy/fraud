@@ -12,7 +12,7 @@ The spreadsheet sec_awards_2025_mm_dd.xlsx provides the raw data that I collecte
 The R-code sec_awards_2025_mm_dd.R inputes the spreadsheet and generates Table 1 in LaTeX format. Don't forget the change the working directory where the R-code and the Excel file are placed. 
 
 
-*** R-code for numerical simulations of  The R-code fraud_2025_mm_dd.R ***
+*** R-code for the numerical simulations: fraud_2025_mm_dd.R ***
 
 Run the entire code first (don't forget to change the working directory). 
 
