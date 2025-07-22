@@ -18,7 +18,7 @@ Run the entire code first (don't forget to change the working directory).
 
 The first part simulates Figure 5 in the paper (just for fun, not really needed). 
 
-The second part simulates Result 4(a) showing a case where the optimal compensation is C_min and a cash where the optimal compensation is C_max. 
+The second part simulates Result 4(a) showing a case where the optimal compensation is C_min and a case where the optimal compensation is C_max. 
 
 *** Other files in the repository (not related to Table 1) ***
 
