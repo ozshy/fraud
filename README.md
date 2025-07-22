@@ -9,7 +9,7 @@ https://papers.ssrn.com/abstract=5121886
 
 The spreadsheet sec_awards_2025_mm_dd.xlsx provides the raw data that I collected manually from 133 separate SEC press releases during 2012-2024. It also contains links to each of the 133 press releases. 
 
-The R-code sec_awards_2025_mm_dd.R inputes the spreadsheet and generates Table 1 in LaTeX format. Don't forget the change the working directory where the R-code and the Excel file are placed. 
+The R-code sec_awards_2025_mm_dd.R inputs the spreadsheet and generates Table 1 in LaTeX format. Don't forget the change the working directory where the R-code and the Excel file are placed. 
 
 
 *** R-code for the numerical simulations: fraud_2025_mm_dd.R ***
