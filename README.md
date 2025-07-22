@@ -11,6 +11,7 @@ The spreadsheet sec_awards_2025_mm_dd.xlsx provides the raw data that I collecte
 
 The R-code sec_awards_2025_mm_dd.R inputs the spreadsheet and generates Table 1 in LaTeX format. Don't forget the change the working directory to the directory where the R-code and the Excel file are placed. 
 
+-------------------------------------------------------------
 
 *** R-code for the numerical simulations: fraud_2025_mm_dd.R ***
 
@@ -19,6 +20,8 @@ Run the entire code first (don't forget to change the working directory).
 The first part simulates Figure 5 in the paper (just for fun, not really needed). 
 
 The second part simulates Result 4(a) showing a case where the optimal compensation is C_min and a case where the optimal compensation is C_max. 
+
+-------------------------------------------------------------
 
 *** Other files in the repository (not related to Table 1) ***
 
