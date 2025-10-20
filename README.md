@@ -15,13 +15,15 @@ The R-code sec_awards_2025_mm_dd.R inputs the spreadsheet and generates Table 1 
 
 -------------------------------------------------------------
 
-*** R-code for the numerical simulations: fraud_2025_mm_dd.R ***
+*** R-code for the numerical simulations and Table 3: fraud_2025_mm_dd.R ***
 
 Run the entire code first (don't forget to change the working directory). 
 
 The first part simulates Figure 5 in the paper (just for fun, not really needed). 
 
 The second part simulates Result 4(a) showing a case where the optimal compensation is C_min and a case where the optimal compensation is C_max. 
+
+The last part constructs Table 3 (calibrations of gamma). 
 
 -------------------------------------------------------------
 
